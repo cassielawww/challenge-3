@@ -29,4 +29,7 @@ THEN the password is either displayed in an alert or written to the page
 - Defined password generation function, including password length, types of character used, validated user input and generated password based on criteria
 - Added comments for the whole script so it dissects the code
 ## Screenshot
+![Screenshot](https://user-images.githubusercontent.com/48407721/211663579-cdf19026-c9a0-403f-a1db-5b2a6a349fbf.PNG)
+
 ## Deployment link
+https://cassielawww.github.io/challenge-3/
