@@ -47,7 +47,7 @@ function writePassword() {
   }
 
   
-  //3a) Generate password based on criteria
+  //3a) Add user confirmation and assign it to variable userCharacters
   if (lowercasePromptInput) {
     userCharacters += lowercaseInput;
   }
